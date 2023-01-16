@@ -1,5 +1,6 @@
 # tvapk
-收集各大AndroidTV的apk应用，可免费看电影电视。如大家有也可以贡献一下。把你们的应用apk提交上来，感谢了。
+收集各大AndroidTV的apk应用，可免费看电影电视。如大家有也可以贡献一下。把你们的应用apk提交上来，感谢了。<br>
+***另有安卓和ios的影视剧软件，可前往[安卓影视剧合集](https://github.com/Archmage83/Android_apk)或[IOS影视剧合集](https://github.com/Archmage83/ios_ipa)下载，请给点个赞吧***
 
 * 鱼跃TV
 * 大视界-频道密码789
