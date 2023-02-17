@@ -25,3 +25,13 @@
 * 影视工场_盒子端 v1.0.1
 * 全民K歌TV联想盒子提取-去更新版   电视上的K歌软件
 * 一起看TV
+* 当贝播放器
+* 蜗牛云盘  v2.0.8
+* 小白云盘  v1.5.1
+
+
+推荐4个阿里云盘资源站
+https://u.gitcafe.net
+https://yiso.fun
+https://pan666.cn
+https://alipansou.com
