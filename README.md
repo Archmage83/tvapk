@@ -29,11 +29,12 @@
 * 当贝播放器
 * 蜗牛云盘  v2.0.8
 * 小白云盘  v1.5.1
+* 才智小天地  v2.0
 
 
-推荐4个阿里云盘资源站
-https://u.gitcafe.net
-https://yiso.fun
-https://pan666.cn
+推荐4个阿里云盘资源站<br>
+https://u.gitcafe.net<br>
+https://yiso.fun<br>
+https://pan666.cn<br>
 https://alipansou.com
 
