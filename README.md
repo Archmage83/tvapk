@@ -44,6 +44,7 @@
 * 新TVBox   刚打开以后，点击首页，默认是没有数据源 进入设置，配置地址填写`https://freed.yuanhsing.cf/TVBox/meowcf.json`回到首页就是影视界面了！
 * 华数TV破解版
 * 巴拉 
+* 宝宝英语启蒙
 
 
 推荐4个阿里云盘资源站<br>
