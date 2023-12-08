@@ -46,7 +46,7 @@
 * 宝宝英语启蒙
 * bilibilitv  8.0
 * 超秒直播
-* LocalSend安卓通用适配TV  手机电视电脑文件互传工具
+* LocalSend安卓通用适配TV  手机电视电脑文件互传工具 [官网下载链接](https://localsend.org/#/)
 
 
 推荐4个阿里云盘资源站<br>
