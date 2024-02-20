@@ -48,6 +48,7 @@
 * LocalSend安卓通用适配TV  手机电视电脑文件互传工具 [官网下载链接](https://localsend.org/#/)
 * 灵犀直播
 * 橙子投屏
+* IKTV  K歌神器
 
 
 推荐4个阿里云盘资源站<br>
