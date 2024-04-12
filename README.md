@@ -61,3 +61,7 @@ https://yiso.fun<br>
 https://pan666.cn<br>
 https://alipansou.com
 
+
+## 点赞历史
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Archmage83/tvapk&type=Date)](https://star-history.com/#Archmage83/tvapkt&Date)
