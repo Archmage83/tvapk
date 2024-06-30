@@ -38,13 +38,13 @@
 * simpleliveTV  看抖音，斗鱼，虎牙，b站
 
 
-推荐4个阿里云盘资源站<br>
-https://u.gitcafe.net<br>
-https://yiso.fun<br>
-https://pan666.cn<br>
-https://alipansou.com
+推荐阿里云盘资源站<br>
+[https://ali.gitcafe.ink/](https://ali.gitcafe.ink)<br>
+[https://yiso.fun](https://yiso.work/)<br>
+[https://alipansou.com](https://alipansou.com)<br>
 
 
 ## 点赞历史
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Archmage83/tvapk&type=Date)](https://star-history.com/#Archmage83/tvapkt&Date)
+<br><br>
