@@ -28,14 +28,15 @@
 * 灵犀直播
 * 橙子投屏
 * IKTV  K歌神器
-* 喵影视TV  v3.6.0高级版
-    * 星辰线路  http://8.210.232.168/xc.json
 * 大西瓜TV 
 * 纯粹直播
 * 想唱就唱
 * 特狗TV
 * 儿童影院
 * simpleliveTV  看抖音，斗鱼，虎牙，b站
+* 喵影视TV  v3.7.0高级版
+    * 星辰线路：http://8.210.232.168/xc.json
+    * NeowTV接口：http://meowtv.top/tv
 
 
 推荐4个阿里云盘资源站<br>
