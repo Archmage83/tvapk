@@ -39,7 +39,7 @@
 * 龙门影视纪念版  [官网链接](https://looo.top/)
 * BBLL  看番剧
 * 小苹果影视 v1.3.9
-
+* 百科动物园TV   v2.1.8
 
 推荐阿里云盘资源站<br>
 [https://ali.gitcafe.ink/](https://ali.gitcafe.ink)<br>
