@@ -39,12 +39,7 @@
 * BBLL  看番剧
 * 小苹果影视 v1.3.9
 * 百科动物园TV   v2.1.8
-
-推荐阿里云盘资源站<br>
-[https://ali.gitcafe.ink/](https://ali.gitcafe.ink)<br>
-[https://yiso.fun](https://yiso.work/)<br>
-[https://alipansou.com](https://alipansou.com)<br>
-
+<br><br> 
 
 ## 点赞历史
 
