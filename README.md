@@ -4,9 +4,7 @@
 ***如有失效的apk请及时提issue告知***
 
 * 懒人影视
-* 秒看电视 6.8.5 （看电视软件）
 * 熊猫阅读
-* METV （看电视软件）
 * 全民K歌TV联想盒子提取-去更新版   电视上的K歌软件
 * 小鸡模拟器 已解锁全部功能
 * 当贝播放器
@@ -35,17 +33,18 @@
 * 喵影视TV  v3.7.0高级版
     * 星辰线路：http://8.210.232.168/xc.json
     * NeowTV接口：http://meowtv.top/tv
-* 星空TV   看电视直播
 * 龙门影视纪念版  [官网链接](https://looo.top/)
 * BBLL  看番剧
 * 小苹果影视 v1.3.9
-
-
-推荐阿里云盘资源站<br>
-[https://ali.gitcafe.ink/](https://ali.gitcafe.ink)<br>
-[https://yiso.fun](https://yiso.work/)<br>
-[https://alipansou.com](https://alipansou.com)<br>
-
+* 百科动物园TV   v2.1.8
+* 毒盒影视仓  v5.0.33
+* 桦树TV
+* 梦幻影院 v5.5
+* 神马影视
+* 虎牙TV 
+* Keep健身TV免登录版
+* 天天瑜伽TV版
+<br><br> 
 
 ## 点赞历史
 
