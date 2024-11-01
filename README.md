@@ -16,7 +16,6 @@
 * 绘本故事TV   登录既是会员
 * 中学步课堂TV会员版
 * 老友TV生活学堂   需登陆才可解锁V1P
-* 橘子TV最新版
 * 新TVBox   刚打开以后，点击首页，默认是没有数据源 进入设置，配置地址填写`https://freed.yuanhsing.cf/TVBox/meowcf.json`回到首页就是影视界面了！
 * 宝宝英语启蒙
 * bilibilitv  8.0
@@ -44,6 +43,7 @@
 * 虎牙TV 
 * Keep健身TV免登录版
 * 天天瑜伽TV版
+* 爱唱KTV  3.15.69
 <br><br> 
 
 ## 点赞历史
