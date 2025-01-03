@@ -18,8 +18,6 @@
 * 老友TV生活学堂   需登陆才可解锁V1P
 * 新TVBox   刚打开以后，点击首页，默认是没有数据源 进入设置，配置地址填写`https://freed.yuanhsing.cf/TVBox/meowcf.json`回到首页就是影视界面了！
 * 宝宝英语启蒙
-* bilibilitv  8.0
-* 超秒直播
 * LocalSend安卓通用适配TV  手机电视电脑文件互传工具 [官网下载链接](https://localsend.org/#/)
 * 灵犀直播
 * 橙子投屏
@@ -48,6 +46,7 @@
 * 宝宝趣学tvbox  需导入本地接口
 * 咪咕爱唱
 * 智能K歌 v2.16
+* 橙色直播
 <br><br> 
 
 ## 点赞历史
