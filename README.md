@@ -29,7 +29,6 @@
 * 喵影视TV  v3.7.0高级版
     * 星辰线路：http://8.210.232.168/xc.json
     * NeowTV接口：http://meowtv.top/tv
-* 龙门影视纪念版  [官网链接](https://looo.top/)
 * 百科动物园TV   v2.1.8
 * 毒盒影视仓  v5.0.33
 * 桦树TV
