@@ -31,7 +31,6 @@
     * NeowTV接口：http://meowtv.top/tv
 * 百科动物园TV   v2.1.8
 * 毒盒影视仓  v5.0.33
-* 桦树TV
 * 梦幻影院 v5.5
 * Keep健身TV免登录版
 * 天天瑜伽TV版
