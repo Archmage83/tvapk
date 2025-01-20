@@ -26,9 +26,8 @@
 * 特狗TV
 * 儿童影院
 * simpleliveTV  看抖音，斗鱼，虎牙，b站
-* 喵影视TV  v3.7.0高级版
-    * 星辰线路：http://8.210.232.168/xc.json
-    * NeowTV接口：http://meowtv.top/tv
+* 喵影视TV  v3.8.0高级版
+    * 点播源：`http://pandown.pro/tvbox/tvbox.json?share_token=036bbcd1-b727-45c7-93ca-c9cb0f466ab3&tt_from=copy_link&utm_source=copy_link&utm_medium=toutiao_android&utm_campaign=client_share`
 * 百科动物园TV   v2.1.8
 * 毒盒影视仓  v5.0.33
 * 梦幻影院 v5.5
