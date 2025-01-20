@@ -46,7 +46,55 @@
 * 爱尚直播 v1.3
 * 千寻直播 v1.0.9
 * 电视多TV v5.2.0 可看港台，日韩电视
-<br><br> 
+<br><br>
+
+## 直播源与点播源
+
+```
+直播源：
+https://bit.ly/iptv-aptv
+https://bit.ly/yuechan-ipv6
+https://live.fanmingming.com/tv/m3u/ipv6.m3u
+https://iptv-org.github.io/iptv/index.m3u
+https://raw.githubusercontent.com/joevess/IPTV/main/home.m3u8
+https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8
+https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
+https://raw.githubusercontent.com/vamoschuck/TV/main/M3U
+https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
+https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
+https://iptv-org.github.io/iptv/countries/tw.m3u
+https://raw.githubusercontent.com/vamoschuck/TV/main/M3U
+https://goodiptv.vercel.app/huyayqk.m3u
+https://goodiptv.vercel.app/douyuyqk.m3u
+https://www.goodiptv.club/bililive.m3u
+https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/cqyx.m3u
+https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/yqgd.m3u 
+https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u
+https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/hbgd.m3u
+https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/msp.m3u
+https://raw.githubusercontent.com/BigBigGrandG/IPTV-URL/release/Gather.m3u
+https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
+https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/ya.m3u
+https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+https://raw.githubusercontent.com/YanG-1989/m3u/main/yu.m3u
+https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
+
+点播源：
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/tvbox/0326.json
+https://gh.con.sh/https://raw.githubusercontent.com/txtvv/txtv/main/tvbox/0326.json
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/tvbox/cang.json
+https://gh.con.sh/https://raw.githubusercontent.com/txtvv/txtv/main/tvbox/cang.json
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/daku.txt
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/ku/讴歌多仓.txt
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/ku/七星多仓.txt
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/ku/心动仓库.txt
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/ku/宝盒多仓.txt
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/ku/云星多仓.txt
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/ku/多多多仓.txt
+http://tv.tv520.shop/
+http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=all&jar=all&b=欧歌
+https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
+```
 
 ## 点赞历史
 
