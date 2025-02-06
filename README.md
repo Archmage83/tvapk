@@ -50,8 +50,23 @@
 * 欧歌影视
 * 影视仓 v6.0.2
     * 接口 
-	```
-	http://我不是.摸鱼儿.com
+	```sh
+	http://我不是.摸鱼儿.com			# 摸鱼儿接口
+	http://肥猫.com				# 肥猫接口
+	http://www.饭太硬.com/tv/		# 饭太硬接口
+	http://fty.xxooo.cf/tv/			# 神秘哥哥们备用接口
+	http://rihou.cc:55			# 开心接口
+	https://www.yingm.cc/dm/dm.json  	# 动漫城接口
+	https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json	# PG接口
+	http://home.jundie.top:81/top98.json	# 俊佬接口
+ 	https://cdn.gitmirror.com/bb/xduo/libs/master/index.json 	# 道长接口
+ 	http://mzjk.top/禁止贩卖			# 宝盒接口
+ 	http://tvbox.王二小放牛娃.top		# 王小二放牛娃接口
+ 	https://tv.菜妮丝.top			# 菜妮丝接口
+ 	https://api.hgyx.vip/hgyx.json		# HG接口
+ 	https://dxawi.github.io/0/0.json	# dxawi
+ 	https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json		# 潇洒接口
+ 	https://bitbucket.org/xduo/duoapi/raw/master/xpg.json		# 小苹果接口
 	```
 <br><br>
 
