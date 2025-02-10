@@ -68,6 +68,7 @@
  	https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json		# 潇洒接口
  	https://bitbucket.org/xduo/duoapi/raw/master/xpg.json		# 小苹果接口
 	```
+* 爱唱KTV v3.22.71  
 <br><br>
 
 ## 直播源与点播源
