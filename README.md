@@ -41,7 +41,6 @@
 * 智能K歌 v2.16
 * 虎牙TV  v2.1.9
 * 小苹果影视 v1.5.7
-* BBLL  v1.5.1
 * 爱尚直播 v1.3
 * 千寻直播 v1.0.9
 * 电视多TV v5.2.0 可看港台，日韩电视
@@ -69,6 +68,7 @@
  	https://bitbucket.org/xduo/duoapi/raw/master/xpg.json		# 小苹果接口
 	```
 * 爱唱KTV v3.22.71  
+* BBLL  v1.5.2
 <br><br>
 
 ## 直播源与点播源
