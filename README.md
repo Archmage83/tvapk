@@ -68,7 +68,7 @@
  	https://bitbucket.org/xduo/duoapi/raw/master/xpg.json		# 小苹果接口
 	```
 * 爱唱KTV v3.22.71  
-* BBLL  v1.5.2
+* BBLL  v1.5.2  [官网地址](https://install.appcenter.ms/users/xiaxiaoao/apps/bbll/distribution_groups/publicgroup)
 <br><br>
 
 ## 直播源与点播源
