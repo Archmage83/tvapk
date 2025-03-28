@@ -23,7 +23,6 @@
 * IKTV  K歌神器
 * 纯粹直播
 * 想唱就唱
-* 特狗TV
 * 儿童影院
 * simpleliveTV  看抖音，斗鱼，虎牙，b站
 * 喵影视TV  v3.8.0高级版
@@ -68,7 +67,8 @@
  	https://bitbucket.org/xduo/duoapi/raw/master/xpg.json		# 小苹果接口
 	```
 * 爱唱KTV v3.22.71  
-* BBLL  v1.5.2  [官网地址](https://install.appcenter.ms/users/xiaxiaoao/apps/bbll/distribution_groups/publicgroup)
+* BBLL  v1.5.2  [官网地址链接](https://install.appcenter.ms/users/xiaxiaoao/apps/bbll/distribution_groups/publicgroup)
+* 特狗TV  [官网地址链接](http://tegouapp.vip/)
 <br><br>
 
 ## 直播源与点播源
