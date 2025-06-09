@@ -69,6 +69,7 @@
 * 爱唱KTV v3.22.71  
 * BBLL  v1.5.2  [官网地址链接](https://install.appcenter.ms/users/xiaxiaoao/apps/bbll/distribution_groups/publicgroup)
 * 特狗TV  [官网地址链接](http://tegouapp.vip/)
+* 云视快听TV v3.9.1.2010
 * 亲宝故事会
 <br><br>
 
